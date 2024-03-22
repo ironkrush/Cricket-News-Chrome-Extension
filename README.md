@@ -4,6 +4,10 @@
 
 Welcome to the Cricket News Chrome Extension! Stay updated with the latest cricket news right in your browser with this handy extension. Built using JavaScript, JSON, HTML, and CSS, this extension brings you the latest updates from the world of cricket in a convenient and accessible way.
 
+
+![Screenshot (44)](https://github.com/ironkrush/Cricket-News-Chrome-Extension/assets/80835880/957ff624-2f67-4e88-adba-a28a7401ea17)
+
+
 ## Features
 
 - **Real-Time Updates:** Get instant access to the latest cricket news directly in your Chrome browser.
